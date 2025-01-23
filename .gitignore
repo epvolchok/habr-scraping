@@ -1,3 +1,4 @@
 # bite-code and system files
 __pycache__/
 *.py[cod]
+*.html
